@@ -1,0 +1,11 @@
+{
+  "deployments": {
+    "reyfin-app": {
+      "fabricItemId": "",
+      "fabricApiUrl": "",
+      "fabricWorkspaceId": "75ccbcd4-76dd-45e0-bfff-b59f5b5fc1f7",
+      "deployedAt": "2026-09-16T06:36:49.026Z"
+    }
+  },
+  "active": "reyfin-app"
+}
